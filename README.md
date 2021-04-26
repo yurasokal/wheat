@@ -1,14 +1,13 @@
-# vanilla-template
-Template for vanilla(no framework) frontend projects
+# wheat layout
 
 # Description
 - landing page includes ...
 - This page is adaptive to next devices: Notebook (> 1280px), Tablet (> 768px), Mobile (> 320px) ...
 
 # Links
-- [DEMO LINK]( ... )
-- [Code]( ... )
-- [The landing page]( ... )
+- [DEMO LINK](https://yurasokal.github.io/wheat/)
+- [Code](https://github.com/yurasokal/wheat)
+- [The landing page](http://dev.evergreens.com.ua/hr/test-case-01.png)
 
 # Technologies
 - JavaScript
